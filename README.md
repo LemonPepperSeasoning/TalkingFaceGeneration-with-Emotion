@@ -9,6 +9,8 @@
 ### Introduction
 
 This repository contains the pytorch implementation emotional talking face generation prefesented in paper : Emotional Talking Facial Video Generation using Single Image and Sentence.
+<br />
+Our published paper can be found [here](https://ssl.linklings.net/conferences/acra/acra2022_proceedings/views/includes/files/pap125s2.pdf).
 
 ### Requirements
 
