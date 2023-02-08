@@ -19,6 +19,7 @@ Our published paper can be found [here](https://ssl.linklings.net/conferences/ac
 - `Python 3.6`
 - ffmpeg: `sudo apt-get install ffmpeg`
 - Install necessary packages using `pip install -r requirements.txt`.
+- ( Weights & Biases for experiment tracking )
 
 ### Repository structure
 
